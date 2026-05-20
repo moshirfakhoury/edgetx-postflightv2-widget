@@ -16,6 +16,8 @@ Features
 - Ideal for flight review, training, troubleshooting, and performance optimization.
 - Minimalistic, easy-to-read interface designed for quick interpretation of flight data.
 
+**It is recommended that you setup a logical switch and special function to reset telemtery between flights**
+
 Installation
 - Download the ZIP file
 - Extract the contents of the ZIP file
